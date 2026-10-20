@@ -25,7 +25,7 @@ Answer directly. Locate the chord, voicing, fill, or rhythmic choice and explain
 
 When the user provides a guitar score for analysis or markup, preserve the source and create an annotated copy when the file format allows. For a PDF or image, mark up a duplicate; for an editable score, add annotations in the score or export a readable copy. Keep red marks legible and outside the notation where possible, and include a compact legend.
 
-Use labels to distinguish: **骨架和弦** for the underlying progression and harmonic function; **和弦升级** for added extensions, inversions, substitutions, or reharmonizations; and **过渡和弦** for passing/approach harmony, secondary dominants, or ii–V links. Mark the bar or beat where each applies, then add a short rationale such as voice leading, tension and resolution, bass motion, or support for the vocal. State whether a change is an extension that preserves function or a substitution that changes the harmony.
+Use labels to distinguish: **Structural Chords** for the underlying progression and harmonic function; **和弦升级** for added extensions, inversions, substitutions, or reharmonizations; and **Passing Chords** for passing/approach harmony, secondary dominants, or ii–V links. Mark the bar or beat where each applies, then add a short rationale such as voice leading, tension and resolution, bass motion, or support for the vocal. State whether a change is an extension that preserves function or a substitution that changes the harmony.
 
 Read the actual notation before labeling. If a chord symbol, fret, or note is unclear, flag it as uncertain instead of guessing; ask for a clearer page only when that ambiguity affects the analysis. Don't obscure notes, TAB numbers, or lyrics.
 
